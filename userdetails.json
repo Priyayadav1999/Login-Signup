@@ -1,0 +1,18 @@
+{
+    "user": [
+        {
+            "password": "Priya#123",
+            "username": "priya",
+            "birthdate": "1-1-2001",
+            "hobbies": "singing",
+            "gender": "female"
+        },
+        {
+            "password": "Py#123",
+            "username": "pooja",
+            "birthdate": "1-1-1998",
+            "hobbies": "reading",
+            "gender": "female"
+        }
+    ]
+}
